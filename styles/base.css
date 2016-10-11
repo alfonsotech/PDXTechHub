@@ -28,3 +28,6 @@ h1 {
   padding: 20px 20px;
   background-color: #418259;
 }
+.clearfix {
+  clear:both;
+}
