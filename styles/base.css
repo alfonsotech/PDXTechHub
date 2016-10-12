@@ -14,7 +14,7 @@ body {
 /* Header container */
 header {
   position: absolute;
-  width: 100%;
+  
 }
 
 .logo {
@@ -138,4 +138,7 @@ footer p {
 }
 .template {
   display: none;
+}
+.logo-wrap {
+ width: 50%;
 }
