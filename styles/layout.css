@@ -30,3 +30,9 @@
   width: 80%;
   margin-top: 30px;
 }
+/*img*/
+#job-results img, #map-results img {
+  width: 50px;
+  bottom: -150px;
+
+}
