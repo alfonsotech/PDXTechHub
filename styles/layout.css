@@ -38,3 +38,19 @@
   margin-left: 8px;
 
 }
+
+/*Media Queries foro Results Page*/
+@media only screen and (min-width : 883px) {
+  #map-results, #job-results {
+    display: inline-block;
+    float: left;
+    margin-right: 30px;
+  }
+  }
+  @media only screen and (min-width : 1000px) {
+    #job-results, #map-results {
+      width:1000px;
+      margin: 0 auto;
+      display: block;
+    }
+    }
