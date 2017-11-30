@@ -21,6 +21,7 @@ Set your remote upstream to the original repo.
 ## Versioning
 
 express - 4.13.3
+express-request-proxy - 2.0.0
 
 ## Authors
 
