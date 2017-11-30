@@ -4,7 +4,7 @@ Search for the most recent web developer jobs in Portland and see them displayed
 
 ## Getting Started
 
-Fork the Talent repo.
+Fork the PDXTechHub repo.
 
 Clone your forked repo.
 
