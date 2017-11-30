@@ -21,12 +21,15 @@ Set your remote upstream to the original repo.
 ## Versioning
 
 express - 4.13.3
+
 express-request-proxy - 2.0.0
 
 ## Authors
 
 [Rita Alfonso](https://github.com/alfonsotech)
+
 [Mark Greenwood](https://github.com/markgreenwood)
+
 [mizutombo](https://github.com/mizutombo)
 
 See also the list of [contributors](https://github.com/markgreenwood/PDXTechHub/graphs/contributors) who participated in this project.
